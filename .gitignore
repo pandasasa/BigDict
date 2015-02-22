@@ -1,0 +1,13 @@
+*.dat
+.Rproj.user
+.Rhistory
+.RData
+src/*.o
+src/*.so
+src/*.dll
+packrat/lib*/
+.Rprofile
+*src-i386/
+*src-x64/
+*.txt
+inst/doc
